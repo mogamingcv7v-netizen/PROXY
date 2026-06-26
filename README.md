@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new?template=https://github.com/YOUR_USERNAME/proxy-server)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new?template=https://github.com/mogamingcv7v-netizen/PROXY)
 
 # Proxy Server – One-Click Railway Deploy
 
