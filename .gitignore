@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!entrypoint.sh
+!railway.json
+!README.md
+!.gitignore
